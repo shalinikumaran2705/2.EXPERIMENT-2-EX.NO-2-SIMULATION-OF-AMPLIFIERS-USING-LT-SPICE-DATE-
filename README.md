@@ -31,6 +31,9 @@ DATE:
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+<img width="998" height="540" alt="image" src="https://github.com/user-attachments/assets/8a983145-41c9-429a-b660-24f7b963fd66" />
+
+
 ![WhatsApp Image 2025-11-15 at 10 57 20 AM](https://github.com/user-attachments/assets/27e221fd-63ba-4222-9150-67da5d81c647)
 
 ---
