@@ -22,7 +22,9 @@ DATE:
 
 1.## CIRCUIT DIAGRAM -INVERTING AMPLIFIER
 
-<img width="1280" height="820" alt="image" src="https://github.com/user-attachments/assets/6c84b614-52e4-4620-982c-99d422c7a541" />
+<img width="1555" height="390" alt="image" src="https://github.com/user-attachments/assets/8de0a8ed-f62d-43a5-a057-49f13d88c235" />
+
+
 
 
 ---
@@ -30,9 +32,6 @@ DATE:
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-
-<img width="998" height="540" alt="image" src="https://github.com/user-attachments/assets/8a983145-41c9-429a-b660-24f7b963fd66" />
-
 
 ![WhatsApp Image 2025-11-15 at 10 57 20 AM](https://github.com/user-attachments/assets/27e221fd-63ba-4222-9150-67da5d81c647)
 
@@ -40,36 +39,41 @@ DATE:
 
 2.## CIRCUIT DIAGRAM -NON INVERTING AMPLIFIER
 
-PASTE THE CIRCUIT HERE
 ---
+<img width="1601" height="370" alt="image" src="https://github.com/user-attachments/assets/89173d0c-bd79-42b2-a5b0-52eacfa86097" />
 
 
 ---
 ## OUTPUT WAVEFORM AND DISCUSSION 
 
-PASTE THE OUTPUT WAVEFORM HERE
+![WhatsApp Image 2025-12-05 at 15 51 09_cb6c0ca4](https://github.com/user-attachments/assets/b1dc926c-1883-4986-91db-bb1cdfa17174)
+
 ---
 3.## CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
 
-PASTE THE CIRCUIT HERE
+<img width="1224" height="296" alt="image" src="https://github.com/user-attachments/assets/6594d73f-4397-45b6-b16a-97d7737cad47" />
+
 ---
 
 
 
 ## OUTPUT WAVEFORM AND DISCUSSION 
 
-PASTE THE OUTPUT WAVEFORM HERE
+![WhatsApp Image 2025-12-05 at 15 51 24_3b1c4185](https://github.com/user-attachments/assets/59d80acd-640b-417a-af29-4c52693fc7cb)
+
 ---
 4.## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
 
-PASTE THE CIRCUIT HERE
+<img width="811" height="758" alt="image" src="https://github.com/user-attachments/assets/b46039f3-9a11-415a-9dcc-aca63e017500" />
+
 ---
 
 
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-PASTE THE OUTPUT WAVEFORM HERE
+![WhatsApp Image 2025-12-05 at 15 51 55_f8518128](https://github.com/user-attachments/assets/1a445363-51cb-43f3-b041-05e311c9bd35)
+
 ---
 
 ## RESULT
