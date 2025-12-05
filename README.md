@@ -33,7 +33,8 @@ DATE:
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![WhatsApp Image 2025-11-15 at 10 57 20 AM](https://github.com/user-attachments/assets/27e221fd-63ba-4222-9150-67da5d81c647)
+![WhatsApp Image 2025-12-05 at 15 50 49_343ad38f](https://github.com/user-attachments/assets/f58cf832-63b7-4c26-8beb-ee9da45a5137)
+
 
 ---
 
